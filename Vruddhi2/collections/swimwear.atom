@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://raplian.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://raplian.myshopify.com/collections/swimwear.atom"/>
+  <title>Raplian</title>
+  <updated>2018-03-19T08:37:28-04:00</updated>
+  <author>
+    <name>Raplian</name>
+  </author>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581105254411</id>
+    <published>2018-03-19T08:37:28-04:00</published>
+    <updated>2018-03-19T08:37:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/men-slim-fit-jeans"/>
+    <title>Men Slim Fit Jeans</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p3_b8cd702a-6ba8-4d8a-b673-c0e1d209ab57.jpg?v=1521463050" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Jacket<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Green / S</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Green / M</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Green / L</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Black / S</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Black / M</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581105254411</id>
+      <title>Black / L</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581104566283</id>
+    <published>2018-03-19T08:37:20-04:00</published>
+    <updated>2018-03-19T08:37:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/printed-t-shirt"/>
+    <title>Printed T-shirt</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p7_afec473e-1bc7-4f37-8c63-c295841ae9b3.jpg?v=1521463042" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Shirts<br />
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Formal</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581104566283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581104009227</id>
+    <published>2018-03-19T08:37:13-04:00</published>
+    <updated>2018-03-19T08:37:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/women-printed-sweatshirt"/>
+    <title>Women Printed Sweatshirt</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p10_52f7665b-ebfc-4321-9c2b-f1d68294e615.jpg?v=1521463035" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Jacket<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Thermal</s:tag>
+    <s:tag>Winter Jacket</s:tag>
+    <s:tag>Winter Wear</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581104009227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581102764043</id>
+    <published>2018-03-19T08:37:03-04:00</published>
+    <updated>2018-03-19T08:37:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/striped-crop-top"/>
+    <title>Striped Crop Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p14_38c6e8c7-b0ee-4ce9-99d5-f3dd1f8f672c.jpg?v=1521463025" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Winter Wear</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581102764043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581101944843</id>
+    <published>2018-03-19T08:36:59-04:00</published>
+    <updated>2018-03-19T08:36:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/women-checked-shift-dress"/>
+    <title>Women Checked Shift Dress</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p16_7f545c28-3025-4804-8cb0-0c23d4c729d7.jpg?v=1521463021" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Jacket<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581101944843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581101617163</id>
+    <published>2018-03-19T08:36:57-04:00</published>
+    <updated>2018-03-19T08:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/sand-puffer-jacket"/>
+    <title>Sand Puffer Jacket</title>
+    <s:type>Night Wear</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p17_2d4480fe-cad8-488e-bef2-2dd82d6875d7.jpg?v=1521463019" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Night Wear<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Night Wear</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Short Dress</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581101617163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581101256715</id>
+    <published>2018-03-19T08:36:55-04:00</published>
+    <updated>2018-03-19T08:36:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/printed-hooded-sleeveless-sweatshirt"/>
+    <title>Printed Hooded Sleeveless Sweatshirt</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p18_0b36a28c-360a-4400-a675-f643c38b1e91.jpg?v=1521463017" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Ethnic Wear</s:tag>
+    <s:tag>Short Dress</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581101256715</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581099880459</id>
+    <published>2018-03-19T08:36:48-04:00</published>
+    <updated>2018-03-19T08:36:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/tailored-jacket"/>
+    <title>Tailored Jacket</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p21_b27ba424-2b90-4b1a-b292-566b9f108920.jpg?v=1521463010" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Dresses<br />
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Night Wear</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581099880459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581097816075</id>
+    <published>2018-03-19T08:36:38-04:00</published>
+    <updated>2018-03-19T08:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/polyester-printed-kurta"/>
+    <title>Polyester Printed Kurta</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p25_4b02b091-c429-4b4c-b258-ac55d9d19205.jpg?v=1521463000" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Winter Wear</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581097816075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581096833035</id>
+    <published>2018-03-19T08:36:34-04:00</published>
+    <updated>2018-03-19T08:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/men-striped-sweater"/>
+    <title>Men Striped Sweater</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p27_28c60689-52bd-45b7-950c-68b97c66bf54.jpg?v=1521462996" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Shirts<br />
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ethnic Wear</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581096833035</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581096439819</id>
+    <published>2018-03-19T08:36:31-04:00</published>
+    <updated>2018-03-19T08:36:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/belle-fille-women-hooded-sweatshirt"/>
+    <title>Belle Fille Women Hooded Sweatshirt</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p28_12f956cd-8d4b-4a9d-8ad6-3da99dd6a7f2.jpg?v=1521462994" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ethnic Wear</s:tag>
+    <s:tag>Night Wear</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581096439819</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581093720075</id>
+    <published>2018-03-19T08:36:18-04:00</published>
+    <updated>2018-03-19T08:36:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/georgette-cape-top"/>
+    <title>Georgette Cape Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p34_a901fa18-c28d-4f6a-811b-0a3d59ea652d.jpg?v=1521462980" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ethnic Wear</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Short Dress</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581093720075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581091426315</id>
+    <published>2018-03-19T08:36:06-04:00</published>
+    <updated>2018-03-19T08:36:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/forever-21-solid-women-regular-blue-skirt"/>
+    <title>Forever 21 Solid Women Regular Blue Skirt</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p38_2097fd8e-0cb2-49b1-8488-c53f7e32be63.jpg?v=1521462969" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Shirts<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Formal</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Night Wear</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581091426315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://raplian.myshopify.com/products/581090934795</id>
+    <published>2018-03-19T08:36:04-04:00</published>
+    <updated>2018-03-19T08:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://raplian.myshopify.com/products/only-striped-womens-tube-white-skirt"/>
+    <title>Only Striped Women&apos;s Tube White Skirt</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Vistara-01</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0002/7262/9771/products/p39_8824d4fd-56f3-4fc8-9e97-6b9916719bcd.jpg?v=1521462966" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vistara-01<br />
+        <strong>Type: </strong>Shirts<br />
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla. Donec a neque libero. Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph</h4>
+<p>Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ethnic Wear</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Thermal</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Winter Jacket</s:tag>
+    <s:tag>Winter Wear</s:tag>
+    <s:variant>
+      <id>https://raplian.myshopify.com/products/581090934795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
